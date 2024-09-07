@@ -9,4 +9,4 @@ console.log("Nice updates");
 console.log("boolean", true);
 console.log("number", 1);
 console.log("string", "yes");
-console.log("I have", 1, "dog and that is", true);
+console.log("I have", 2.5, "eggs and that is", false);
